@@ -2,10 +2,10 @@
 
 ## MEMBERS
 
-Tyler Pham (tpham127@calpoly.edu)   return
-Venkata G. Ande,    
-Dionne Gregorio (Drgregor@calpoly.edu)    
-Taran Singh  
+Tyler Pham (tpham127@calpoly.edu)   
+Venkata G. Ande,      
+Dionne Gregorio (Drgregor@calpoly.edu)         
+Taran Singh             
 
 # Description
 

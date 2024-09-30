@@ -3,9 +3,9 @@
 ## MEMBERS
 
 Tyler Pham (tpham127@calpoly.edu)   
-Venkata G. Ande      
+Venkata G. Ande (vande@calpoly.edu)      
 Dionne Gregorio (Drgregor@calpoly.edu)         
-Taran Singh             
+Taran Singh (tsingh33@calpoly.edu)
 
 ## Description
 

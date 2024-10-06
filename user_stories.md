@@ -1,4 +1,4 @@
-###USER Stories
+#USER Stories
 
 1)As an admin I want to be able to remove movies and log potential duplicates , so that their is no repetitive information
 2)As an admin, I want to verify the users email, so that someone is not spamming our systems.
@@ -13,7 +13,7 @@
 11)As Celeste, I want to know the production behind a movie, so that I can find their other works
 12)As Charmaine, I want to invite my friends, so we can find new  movies to watch together
 
-###Exceptions
+#Exceptions
 
 1)If a user rates a movie with a metric that was not interended (ex. 11/10), the user will be prompted to reenter the rating and explain the parameters (b/c it is an api endpoint.
 2)If a user wants to input a movie that looks similar to another movie title, they will be prompted to select from the following an make sure they are not just duplicating a movie.

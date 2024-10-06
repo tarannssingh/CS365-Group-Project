@@ -15,8 +15,8 @@
 
 # Exceptions
 
-1) If a user rates a movie with a metric that was not interended (ex. 11/10), the user will be prompted to reenter the rating and explain the parameters (b/c it is an api endpoint.
-2)If a user wants to input a movie that looks similar to another movie title, they will be prompted to select from the following an make sure they are not just duplicating a movie.
+1) If a user rates a movie with a metric that was not interended (ex. 11/10), the user will be prompted to reenter the rating and explain the parameters (b/c it is an api endpoint.)
+2) If a user wants to input a movie that looks similar to another movie title, they will be prompted to select from the following an make sure they are not just duplicating a movie.
 3) When a user is verifying their email, if their otp is incorrect, they will be prompted to resend an otp or try again.
 4) if a user adds more than 5 movies in the past hour, they will be told to wait an hour till they can add more movies.
 5) Exception: User writes fills out the entry incorrectly
